@@ -42,7 +42,7 @@ jupyter notebook notebook/regressao_multipla.ipynb
 ## Estrutura do projeto
 
 ```
-regressao-multipla-precos/
+car-price-multiple-regression/
 ├── notebook/
 │   └── regressao_multipla.ipynb   # preparo, regressao e previsao
 ├── requirements.txt
