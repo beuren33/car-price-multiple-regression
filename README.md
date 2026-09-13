@@ -16,7 +16,7 @@ A base traz 804 registros de carros, cada um com suas características e o preç
 
 ## Resultados
 
-O modelo produz estimativas de preço a partir do conjunto de características informado. Num teste prático, ao descrever um carro específico com sua quilometragem, cilindros, portas e modelo, a regressão retornou um preço estimado por volta de 9,8 mil, mostrando o uso do modelo de ponta a ponta, das características até o valor previsto. O resumo estatístico gerado pelo statsmodels permite ainda olhar quais variáveis mais pesam na formação do preço.
+O modelo produz estimativas de preço a partir do conjunto de características informado. Em um teste prático, ao descrever um carro específico com sua quilometragem, cilindros, portas e modelo, a regressão retornou um preço estimado por volta de 9,8 mil, mostrando o uso do modelo de ponta a ponta, das características até o valor previsto. O resumo estatístico gerado pelo statsmodels permite ainda olhar quais variáveis mais pesam na formação do preço.
 
 | Item | Valor |
 | --- | --- |
